@@ -14,5 +14,11 @@ namespace SQLExample
 
         public string EmailAddress { get; set; }
         public string PhoneNumber { get; set; }
+
+        public string FullInfo
+        {
+            get => $"{FirstName}{LastName}{EmailAddress}";
+        }
+
     }
 }

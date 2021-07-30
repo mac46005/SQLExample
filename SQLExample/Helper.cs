@@ -11,7 +11,7 @@ namespace SQLExample
     {
         public static string CnnVal(string name)
         {
-            return ConfigurationManager
+            return ConfigurationManager.ConnectionStrings[name].ConnectionString;
         }
     }
 }
