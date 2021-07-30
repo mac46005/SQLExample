@@ -1,0 +1,5 @@
+E:\GitRepos\SQLExample\SampleDb\bin\Debug\SampleDb.dacpac
+E:\GitRepos\SQLExample\SampleDb\bin\Debug\SampleDb.dll
+E:\GitRepos\SQLExample\SampleDb\bin\Debug\SampleDb.pdb
+E:\GitRepos\SQLExample\SampleDb\obj\Debug\SampleDb.dll
+E:\GitRepos\SQLExample\SampleDb\obj\Debug\SampleDb.pdb

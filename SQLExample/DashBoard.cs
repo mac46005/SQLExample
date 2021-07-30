@@ -17,7 +17,7 @@ namespace SQLExample
         {
             InitializeComponent();
             peopleFoundLIstBox.DataSource = people;
-            peopleFoundLIstBox.DisplayMember = "";
+            peopleFoundLIstBox.DisplayMember = "FullInfo";
         }
 
         private void seatchButon_Click(object sender, EventArgs e)
