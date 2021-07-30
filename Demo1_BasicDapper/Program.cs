@@ -10,6 +10,8 @@ namespace Demo1_BasicDapper
     {
         static void Main(string[] args)
         {
+            
         }
+
     }
 }
